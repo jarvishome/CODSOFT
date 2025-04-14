@@ -33,7 +33,7 @@ This repository contains all the Python mini-projects I created during my intern
 I'm a passionate tech enthusiast, exploring the world of software development one step at a time. This internship with **#CodSoft** was a valuable learning experience where I sharpened my Python basics and built fun, real-world logic-based projects.
 
 Connect with me:  
-🔗 [LinkedIn](www.linkedin.com/in/sakshi-ambre-b88838317)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-ambre-b88838317)  
 📧 sakshiambre2003@gmail.com
 
 
